@@ -37,4 +37,5 @@ resetBtn.addEventListener("click", () => {
     height.value = "";
     weight.value = "";
     results.innerHTML = "";
+
 });
